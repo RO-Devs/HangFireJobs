@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangFireJobs.Web", "HangFireJobs.Web.csproj", "{4E087643-D570-468B-B32E-5F32D5FC3040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E087643-D570-468B-B32E-5F32D5FC3040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E087643-D570-468B-B32E-5F32D5FC3040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E087643-D570-468B-B32E-5F32D5FC3040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E087643-D570-468B-B32E-5F32D5FC3040}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85C78D9-5CE2-4CF0-84CE-4AD6F49A5CF8}
+	EndGlobalSection
+EndGlobal
